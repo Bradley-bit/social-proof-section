@@ -3,13 +3,17 @@
     margin: 0;
     padding: 0;
 }
-
+/* font colors */
 .dark-magenta-text {
     color: hsl(300, 43%, 22%);
 }
 
 .intro-para {
     color: hsl(303, 10%, 53%);
+}
+
+.buyer-status {
+    color: hsl(333, 80%, 67%);
 }
 
 .container {
