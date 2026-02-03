@@ -10,6 +10,12 @@ body {
     line-height: 1.5;
 }
 
+.title{
+    margin: 0 auto;
+    width: 200px;
+    line-height: normal;
+}
+
 /* font colors */
 .stars p,
 .title {
