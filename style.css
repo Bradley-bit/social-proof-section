@@ -16,6 +16,10 @@
     color: hsl(333, 80%, 67%);
 }
 
+.reviewer-name,
+.review-para {
+    color: hsl(0, 0%, 100%);
+}
 .container {
     width: 400px;
     margin: 0 auto;
