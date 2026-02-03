@@ -8,6 +8,9 @@
     color: hsl(300, 43%, 22%);
 }
 
+.intro-para {
+    color: hsl(303, 10%, 53%);
+}
 
 .container {
     width: 400px;
