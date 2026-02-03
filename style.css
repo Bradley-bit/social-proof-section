@@ -25,3 +25,10 @@
     background-color: hsl(302, 25%, 79%);
     border-radius: 5px;
 }
+
+.buyer {
+    margin: 20px 0;
+    background-color: hsl(300, 43%, 22%);
+    padding: 30px;
+    border-radius: 10px;
+}
