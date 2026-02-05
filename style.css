@@ -89,4 +89,17 @@ body {
     margin: 0 auto;
     padding: 40px;
 }
+    .intro {
+    display: flex;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.star-container {
+    display: flex;
+    margin: 15px 0;
+    padding: 5px;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 5px;
+}
+
 }
