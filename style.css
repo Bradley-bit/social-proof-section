@@ -104,6 +104,7 @@ body {
 }
     .reviews {
         display: flex;
+        margin-top: 300px;
         gap: 40px;
     }
 
