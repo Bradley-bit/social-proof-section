@@ -59,7 +59,7 @@ body {
 }
 .star-container {
     margin: 15px 0;
-    padding: 20px;
+    padding: 5px;
     background-color: hsl(300, 24%, 96%);
     border-radius: 5px;
 }
