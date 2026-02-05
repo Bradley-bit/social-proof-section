@@ -57,6 +57,11 @@ body {
     background-position: center;
     background-repeat: repeat space;
 }
+
+.info {
+    width: 350px;
+}
+
 .star-container {
     margin: 15px 0;
     padding: 5px;
@@ -92,6 +97,8 @@ body {
 }
     .intro {
     display: flex;
+    justify-content: space-around;
+    align-items: center;
     text-align: left;
     margin-bottom: 50px;
 }
