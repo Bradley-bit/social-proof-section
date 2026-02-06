@@ -119,7 +119,7 @@ body {
 }
     .reviews {
         display: flex;
-        margin-top: 300px;
+        margin-top: 150px;
         gap: 40px;
     }
 
