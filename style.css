@@ -125,8 +125,9 @@ body {
         margin-top: 150px;
         gap: 40px;
     }
-
+    
     .buyer {
+        height: 200px;
         width: 400px;
         margin: 0 auto;
         background-color: hsl(300, 43%, 22%);
@@ -146,5 +147,18 @@ body {
 .block-3 {
     width: 310px;
     margin-left: 225px;
+}
+
+.profile-1 {
+    margin-bottom: 400px;
+}
+.profile-2 {
+    align-self: center;
+    margin-bottom: 350px;
+}
+.profile-3 {
+    align-self: end;
+    margin-bottom: 350px;
+
 }
 }
