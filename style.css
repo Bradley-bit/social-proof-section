@@ -112,6 +112,9 @@ body {
 }
 .star-container {
     display: flex;
+    gap:30px;
+    /* justify-content: center; */
+    align-items: center;
     margin: 15px 0;
     padding: 5px;
     background-color: hsl(300, 24%, 96%);
@@ -129,5 +132,19 @@ body {
         background-color: hsl(300, 43%, 22%);
         padding: 30px;
         border-radius: 10px;
+}
+.star-img {
+    margin: 0;
+}
+.block-1 {
+    width: 310px;
+    margin-right: 300px;
+}.block-2 {
+    width: 310px;
+    margin-left: 100px;
+}
+.block-3 {
+    width: 310px;
+    margin-left: 225px;
 }
 }
