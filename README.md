@@ -38,7 +38,6 @@ Users should be able to:
 
 I learnt how to create 2 different layouts based on a design.
 
-To see how you can add code snippets, see below:
 
 ### Continued development
 
