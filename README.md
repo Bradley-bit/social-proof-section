@@ -36,13 +36,13 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learnt how to create 2 different layouts based on a design.
 
 To see how you can add code snippets, see below:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I need to spend some time working with flex-box and media queries. I also need to need more experience working with images.
 
 ### Useful resources
 
