@@ -46,5 +46,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Resource 1](https://fonts.google.com/selection) - Used to add custom fonts to a project.
+- [Resource 2](https://developer.mozilla.org/en-US/) - Used to help built the responsive design.
